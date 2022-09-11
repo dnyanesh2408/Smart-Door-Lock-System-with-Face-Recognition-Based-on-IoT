@@ -11,6 +11,6 @@ Technology Used: Raspberry Pi, IoT, Python, Face Recognition Technology.
 
 Team Members: 4
 
-> To learn more about this project click below link. Thanks !
+> To learn more about this project visit below link. Thanks !
 
 Visit https://bit.ly/3ScgLqr
