@@ -4,11 +4,11 @@ Hi,
 
 This project I have done in my final year Engineering.
 
-
 Discription: 
 The aim of this project was to design and build a door lock system that allows users to unlock a door via face recognition technology, through a camera implanted on the door.
 
-Te
-> This is 
+Team Members: 4
 
-Visit https://github.com
+Technology Used: Raspberry Pi, IoT, Python, Face Recognition Technology.
+
+Visit https://github.com/dnyanesh2408/Smart-Door-Lock-System-with-Face-Recognition-Based-on-IoT
