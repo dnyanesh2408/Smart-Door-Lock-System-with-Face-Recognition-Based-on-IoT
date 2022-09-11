@@ -13,4 +13,4 @@ Team Members: 4
 
 > To learn more about this project which is given project report pdf file which is attach in this repo.
 
-Visit https://rb.gy/y7hiyq
+Visit https://bit.ly/3ScgLqr
