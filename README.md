@@ -11,6 +11,6 @@ Team Members: 4
 
 Technology Used: Raspberry Pi, IoT, Python, Face Recognition Technology.
 
-> To learn more about this project please read pdf which is attach in this repo.
+> To learn more about this project which is given project report pdf file which is attach in this repo.
 
 Visit https://github.com/dnyanesh2408/Smart-Door-Lock-System-with-Face-Recognition-Based-on-IoT
