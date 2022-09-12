@@ -8,7 +8,7 @@ The aim of this project was to design and build a door lock system that allows u
 
 Technology Used: 
 Raspberry Pi, IoT, Python, Face Recognition Technology.
-Duration: 1 year.
+
 Team Members: 4
 
 > To learn more about this project visit below link. Thanks !
